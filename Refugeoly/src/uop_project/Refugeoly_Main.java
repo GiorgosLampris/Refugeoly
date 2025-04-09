@@ -1,6 +1,6 @@
 
-//Georgios Lampris AM:2022202200105
-//Leonidas Kalafatas AM:2022202200063
+//Georgios Lampris 
+//Leonidas Kalafatas 
 
 package uop_project;
 
